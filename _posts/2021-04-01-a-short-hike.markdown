@@ -2,14 +2,14 @@
 layout: post
 title:  "A Short Hike (v1.7.7.Mutli.3)"
 date:   2021-04-01 10:20:32 +0200
-categories: uncategorized
+categories: repack march
 help tool:                                                                                          |
 ---
 Genres/Tags: **Arcade, Idle**                                                                        
 Developer/Publisher: **adamgryu**                                                                    
-Languages: **ENG/MULTI12**                                                                           
-Original Size: **43 GB**                                                                             
-Repack Size: **27.4 GB**                                                                             
+Languages: **ENG/MULTI.12**                                                                          
+Original Size: **500 MB**                                                                            
+Repack Size: **380 MB**                                                                             
 
 <h4><b>Download Mirrors:</b></h4>
 [mirrored.to][mirrored]                                                                             
@@ -21,6 +21,7 @@ Repack Size: **27.4 GB**
 [CS.RIN.RU Thread][rin]
 
 If you have any problems with installation feel free to ask in comments.
+If any links are down Please write a comment about it so i can reupload it.
 
 [one]: https://livestudentccc-my.sharepoint.com/:u:/g/personal/mdonald12_student_ccc_edu/ESRTbrLvFWxIpwYaSLV2MFcBfa3peU64yJG0dUCZS16wNQ?e=zcE7FX
 [pixel]: https://pixeldrain.com/u/Wz5T8jAU

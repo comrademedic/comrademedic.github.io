@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Terraria (v1.4.1.2.Mutli.9)"
+date:   2021-04-01 13:41:32 +0200
+categories: repack march 
+help tool:                                                                                          |
+---
+Genres/Tags: **Action, Idle, Adventure, RPG**                       
+Developer/Publisher: **Re-Logic**                                                                    
+Languages: **ENG/MULTI.9**                                                                        
+Original Size: **380 MB**                                                                            
+Repack Size: **333 MB**                                                                            
+
+<h4><b>Download Mirrors:</b></h4>
+[mirrored.to][mirrored]                                                                             
+[Google Drive][gdrive]                                                                              
+[Mediafire][mediafire]                                                                              
+[Pixeldrain][pixel]                                                                                 
+[Onedrive][one]                                                                                     
+
+[CS.RIN.RU Thread][rin]
+
+If you have any problems with installation feel free to ask in comments.
+
+[one]: https://livestudentccc-my.sharepoint.com/:u:/g/personal/mdonald12_student_ccc_edu/EYOPSfSkLc5MqXzcdyx5pmIB6iZl-SO6tQiMlXnkLVYClA?e=OHklaL
+[pixel]: https://pixeldrain.com/u/QkaGZYKh
+[mediafire]: https://www.mediafire.com/file/xc5dg9t5qw099y5/Terraria.Repack-Comrade.Medic.rar/file
+[gdrive]: https://drive.google.com/file/d/1m44c0VoXS3jYdIDYyCXF5linAn7IJVre/view?usp=sharing
+[mirrored]: https://www.mirrored.to/files/TQCOTAKH/Terraria.Repack-Comrade.Medic.rar_links
+[rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=65017
