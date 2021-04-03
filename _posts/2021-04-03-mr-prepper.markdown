@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Mr. Prepper (v1.4.2.1.Mutli.9)"
+title:  "Mr. Prepper (v12.Mutli.12)"
 date:   2021-04-03 11:16:32 +0200
 categories: repack march 
 help tool:                                                                                                   |
 ---
-Genres/Tags: **Action, Idle, Adventure, RPG**                                                                 
+Genres/Tags: **Survival, Simulation, Cradting, Singleplayer**                                                 
 Developer: **Rejected Games**                                                                                 
-Publisher: **PlayWay S.A.**                                                                    
-Languages: **ENG/MULTI.12**                                                                        
-Original Size: **3,67 GB**                                                                            
-Repack Size: **1,38 GB**                                                                            
+Publisher: **PlayWay S.A.**                                                                                   
+Languages: **ENG/MULTI.12**                                                                                   
+Original Size: **3,67 GB**                                                                                    
+Repack Size: **1,38 GB**                                                                                      
 
 <h4><b>Download Mirrors:</b></h4>                                                                            
 [Google Drive][gdrive]                                                                              
