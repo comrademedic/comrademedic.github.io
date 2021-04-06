@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Upcoming repacks"
-date:   2021-04-03 16:58:32 +0200
+date:   2021-04-06 17:40:32 +0200
 categories: uncategorized 
 help tool:                                                                                                   |
 ---
+**Bugsnax**                                                                                         
+**Oxygen Not Included**                                                                              
 **Untitled Goose Game**                                                                              
 **Superliminal**                                                                                     
 **Hollow Knight**                                                                                    
@@ -14,11 +16,10 @@ help tool:                                                                      
 **Her Story**                                                                                        
 **Papers, Please**                                                                                   
 **Celleste**                                                                                         
-**Subnautica**                                                                                       
+~~Subnautica~~                                                                                       
 **Don't Starve Together**                                                                            
 ~~The Sims 4~~                                                                                       
 ~~Disco Elysium~~                                                                                    
-**Two Point Hospital**                                                                               
 ~~Half-Life 2~~                                                                                      
 **Stranded Deep**                                                                                    
 **Beholder 2**                                                                                       
