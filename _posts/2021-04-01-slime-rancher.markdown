@@ -21,6 +21,7 @@ Repack Size: **476 MB**
 [CS.RIN.RU Thread][rin]
 
 If you have any problems with installation feel free to ask in comments.
+If any links are down Please write a comment about it so i can reupload it.
 
 [one]: https://livestudentccc-my.sharepoint.com/:u:/g/personal/mdonald12_student_ccc_edu/Ec7cQj8Og-1EvFLhI9HfdMkBoRWIfG7JdvABa76p5jCrfA?e=52M4dx
 [pixel]: https://pixeldrain.com/u/DSbAKWwT

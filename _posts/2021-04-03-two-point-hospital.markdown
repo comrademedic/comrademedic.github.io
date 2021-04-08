@@ -21,6 +21,7 @@ Repack Size: **3,10 GB**
 [CS.RIN.RU Thread][rin]
 
 If you have any problems with installation feel free to ask in comments.
+If any links are down Please write a comment about it so i can reupload it.
 
 [one]: https://pastebin.com/raw/cpiMcUTc
 [mediafire]: https://pastebin.com/raw/hPd05yye

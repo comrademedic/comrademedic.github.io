@@ -21,6 +21,7 @@ Repack Size: **1,38 GB**
 [CS.RIN.RU Thread][rin]
 
 If you have any problems with installation feel free to ask in comments.
+If any links are down Please write a comment about it so i can reupload it.
 
 [one]: https://livestudentccc-my.sharepoint.com/:u:/g/personal/mdonald12_student_ccc_edu/ET_O5UJyMUBIrTsLnGqEHBsB3LbNnUe6vZisHvRlU18YEw?e=Zn23Wg
 [mediafire]: https://www.mediafire.com/file/yhkz5ig058xu1ws/Mr.Prepper.Repack-Comrade.Medic.rar/file
