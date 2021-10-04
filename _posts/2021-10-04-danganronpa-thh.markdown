@@ -25,7 +25,7 @@ If any links are down Please write a comment about it so i can reupload it.
 
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=77890
-[mediafire]: https://www.mediafire.com/file/hsg5wkhtphjdx4g/Oxygen.Not.Included.Repack-Comrade.Medic.rar/file
+[mediafire]: https://www.mediafire.com/file/y1huk9898d1e7pu/Danganronpa.Trigger.Happy.Havoc.Repack-Comrade.Medic.7z/file
 <!--[one]:
 [gdrive]:
 [mega]:-->
