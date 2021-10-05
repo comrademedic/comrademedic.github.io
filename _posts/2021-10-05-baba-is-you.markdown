@@ -8,7 +8,7 @@ help tool:                                                                      
 Genres/Tags: **Puzzle, Indie, Difficult, Singleplayer, Logic**                                                                            
 Developer: **Hempuli Oy**                                                                            
 Publisher: **Hempuli Oy**                                                                             
-Languages: **ENG/MULTI 16**                                                                          
+Languages: **ENG/MULTI.16**                                                                          
 Original Size: **67.0 MB**                                                                           
 Repack Size: **58.2 MB**                                                                       
 

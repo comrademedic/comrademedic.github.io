@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Danganronpa: Trigger Happy Havoc (Mutli.2)"
+title:  "Danganronpa: Trigger Happy Havoc (Mutli.3)"
 date:   2021-10-04 16:41:00 +0200
 categories: repack october 
 help tool:                                                                                               |
@@ -8,7 +8,7 @@ help tool:                                                                      
 Genres/Tags: **Anime, Visual Novel**                                                                            
 Developer: **Spike Chunsoft Co., Ltd.**                                                                            
 Publisher: **Spike Chunsoft Co., Ltd**                                                                             
-Languages: **ENG/JAP**                                                                          
+Languages: **ENG/MULTI.3**                                                                          
 Original Size: **2,9 GB**                                                                           
 Repack Size: **1,49 GB**                                                                       
 
