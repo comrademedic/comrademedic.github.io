@@ -16,7 +16,7 @@ Repack Size: **1,49 GB**
 [Google Drive][gdrive]                                                                             
 [Mediafire][mediafire]                                                                               
 [Onedrive][one]                                                                               
-Mega.nz (Not Yet)<!-- [mega] -->
+[Mega.nz][mega]
 
 [CS.RIN.RU Thread][rin]
 
@@ -28,4 +28,4 @@ If any links are down Please write a comment about it so i can reupload it.
 [mediafire]: https://www.mediafire.com/file/y1huk9898d1e7pu/Danganronpa.Trigger.Happy.Havoc.Repack-Comrade.Medic.7z/file
 [one]: https://1drv.ms/u/s!AhO83nC1m4oDaaHstluwGlFKavU?e=eeH1C1
 [gdrive]: https://drive.google.com/file/d/1l47_daZ4lGp5WHsAL2NRaddCBESe1CRG/view?usp=sharing
-<!--[mega]: -->
+[mega]: https://mega.nz/file/VzIWULII#fb0b5B-PRJUyAGYD4c3v0gxOnFfUtrgN3ujwCTkiN40
