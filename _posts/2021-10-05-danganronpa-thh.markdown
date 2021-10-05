@@ -10,7 +10,7 @@ Developer: **Spike Chunsoft Co., Ltd.**
 Publisher: **Spike Chunsoft Co., Ltd**                                                                             
 Languages: **ENG/JAP**                                                                          
 Original Size: **2,9 GB**                                                                           
-Repack Size: **1,49 MB**                                                                       
+Repack Size: **1,49 GB**                                                                       
 
 <h4><b>Download Mirrors:</b></h4>                                                                            
 [Google Drive][gdrive]                                                                             
