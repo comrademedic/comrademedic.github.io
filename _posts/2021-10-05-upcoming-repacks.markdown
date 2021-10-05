@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Upcoming repacks"
-date:   2021-10-05 13:25:00 +0200
+date:   2021-10-05 14´:29:00 +0200
 categories: uncategorized 
 help tool:                                                                                                   |
 ---
-Baba is You 📅 (nothing big game itself is just 67.0 MB)                                                                 
+Baba is You 📅 (nothing big the game itself is just 67.0 MB)                                                                 
 
 (The list is not in any specific order i will repack in order that i want to)                        
 
