@@ -12,6 +12,21 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
+      {% if page.url == "/" %}
+    {% for pinned in site.tags.pinned %}
+          <article class="pinned">
+            <p class="pinned-article"><b>📌 Pinned Post</b></p>
+            <div class="entry">
+                <p>
+                    {{ post.excerpt }}
+                </p>
+            </div>
+
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+            </a>
+          </article>
+    {% endfor %}
+{% endif %}
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -23,7 +38,7 @@ layout: default
         </h3>
         {{ post.content | truncatewords:120}}<br>
             <a href="{{ post.url }}">Read more...</a><br><br>
-        {%- if site.show_excerpts -%}
+            {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
@@ -31,5 +46,4 @@ layout: default
     </ul>
 
   {%- endif -%}
-
 </div>
