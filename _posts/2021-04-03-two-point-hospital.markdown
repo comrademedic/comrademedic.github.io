@@ -4,6 +4,7 @@ title:  "Two Point Hospital (v1.25.6943.Mutli.10)"
 date:   2021-04-06 17:39:32 +0200
 categories: repack april 
 help tool:                                                                                               |
+tag: post
 ---
 Genres/Tags: **Survival, Simulation, Cradting, Singleplayer**                                                 
 Developer: **Two Point Studios**                                                                              

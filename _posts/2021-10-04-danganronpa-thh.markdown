@@ -3,6 +3,7 @@ layout: post
 title:  "Danganronpa: Trigger Happy Havoc (Mutli.3)"
 date:   2021-10-04 16:41:00 +0200
 categories: repack october 
+tag: post
 help tool:                                                                                               |
 ---
 Genres/Tags: **Anime, Visual Novel**                                                                            

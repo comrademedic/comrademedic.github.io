@@ -4,6 +4,7 @@ title:  "Slime Rancher (v1.4.3.Mutli.10)"
 date:   2021-04-02 15:04:32 +0200
 categories: repack april 
 help tool:                                                                                               |
+tag: post
 ---
 Genres/Tags: **Action, Adventure, Indie, Simulation**                                                         
 Developer/Publisher: **Monomi Park**                                                                          

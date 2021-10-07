@@ -13,21 +13,30 @@ layout: default
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {% if page.url == "/" %}
-    {% for pinned in site.tags.pinned %}
-          <article class="pinned">
-            <p class="pinned-article"><b>📌 Pinned Post</b></p>
-            <div class="entry">
-                <p>
-                    {{ post.excerpt }}
-                </p>
-            </div>
-
-            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
-            </a>
-          </article>
-    {% endfor %}
-{% endif %}
-      {%- for post in site.posts -%}
+      {% for post in site.tags.pinned %}
+            <article class="post">
+              <p class="pinned-article"><b>📌 Pinned Article</b></p>
+  
+              <h1>
+                  <a href="{{ site.baseurl }}{{ post.url }}">
+                      {{ post.title }}
+                  </a>
+              </h1>
+  
+              <div class="entry">
+                  <p>
+                    {{ post.content | truncatewords:120}}<br>
+                    <a href="{{ post.url }}">Read more...</a><br><br>
+                    {%- if site.show_excerpts -%}
+                  {{ post.excerpt }}
+                {%- endif -%}
+                  </p>
+              </div>
+            </article>
+      {% endfor %}
+  {% endif %}
+      {% if page.url == "/" %}
+      {% for post in site.tags.post %}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -43,7 +52,7 @@ layout: default
         {%- endif -%}
       </li>
       {%- endfor -%}
+      {%- endif -%}
     </ul>
-
   {%- endif -%}
 </div>

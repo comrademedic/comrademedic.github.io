@@ -4,6 +4,7 @@ title:  "Raft (v12.Mutli.12)"
 date:   2021-04-07 12:29:32 +0200
 categories: repack april 
 help tool:                                                                                               |
+tag: post
 ---
 Genres/Tags: **Adventure, Indie, Simulation, Early Access**                                                 
 Developer: **Redbeet Interactive**                                                                            

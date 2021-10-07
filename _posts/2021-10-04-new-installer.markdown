@@ -3,6 +3,7 @@ layout: post
 title:  "New Installer!"
 date:   2021-10-04 17:23:00 +0200
 categories: update
+tag: post
 help tool:                                                                                                   |
 ---
 Hi!
