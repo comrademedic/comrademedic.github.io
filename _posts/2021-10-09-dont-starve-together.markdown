@@ -16,7 +16,7 @@ Based On: **Clean Files from RIN + Goldberg Emu**
 Note: **Doesn't Include DLCs** (DLC files are there but are not working)
 
 <h4><b>Download Mirrors:</b></h4>                                                                            
-<!--[Google Drive][gdrive]-->                                                                    
+[Google Drive][gdrive]                                                                    
 [Mediafire][mediafire]                                                                                
 [Onedrive][one]                                                                               
 <!--[Mega.nz][mega]-->
@@ -36,5 +36,5 @@ If any links are down Please write a comment about it so i can reupload it.
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=63009
 [mediafire]: https://www.mediafire.com/file/kqb86lgsoeglpac/Dont.Starve.Together.Repack-Comrade.Medic.rar/file
 [one]: https://1drv.ms/u/s!AhO83nC1m4oDb_FT8vpIgMnx1RI?e=7LnP9C
-[gdrive]: https://drive.google.com/file/d/1MIIgfSZFb27YHLM6LNkUAajH2_cb5LV4/view?usp=sharing
+[gdrive]: https://drive.google.com/file/d/1MdLppe1UDGriIgsrs2Lu08pzHx37Baod/view?usp=sharing
 [mega]: https://mega.nz/file/5nZ1wKKZ#xZ1F1RYm10RMvpjDcfkjsIm4ZFm8K7W0cWU2Vz95IOE   
