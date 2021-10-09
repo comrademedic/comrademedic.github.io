@@ -11,12 +11,13 @@ Developer: **Klei Entertainment**
 Publisher: **Klei Entertainment**                                                                             
 Languages: **ENG/zh-TW**                                                                          
 Original Size: **2.33 GB**                                                                           
-Repack Size: **???**                                                                                          
-Based On: **Clean Files from RIN + Goldberg Emu**
+Repack Size: **1.54 GB**                                                                                          
+Based On: **Clean Files from RIN + Goldberg Emu**                                                                
+Note: **Doesn't Include DLCs** (DLC files are there but are not working)
 
 <h4><b>Download Mirrors:</b></h4>                                                                            
-<!--[Google Drive][gdrive]-->                                                                       
-[Mediafire][mediafire]                                                                               
+<!--[Google Drive][gdrive]                                                                       
+[Mediafire][mediafire]-->                                                                                
 <!--[Onedrive][one]                                                                               
 [Mega.nz][mega]-->
 
