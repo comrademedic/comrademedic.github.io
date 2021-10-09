@@ -9,7 +9,7 @@ help tool:                                                                      
 Genres/Tags: **Adventure, Indie, Simulation**                                                                                      
 Developer: **Klei Entertainment**                                                                            
 Publisher: **Klei Entertainment**                                                                             
-Languages: **ENG/zh-TW**                                                                          
+Languages: **ENG**                                                                          
 Original Size: **4.85 GB**                                                                           
 Repack Size: **2.90 GB**                                                                                          
 Based On: **Clean Files from RIN + ALI Emu**
