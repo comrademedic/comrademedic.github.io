@@ -16,8 +16,7 @@ Based On: **Clean Files from RIN + ALI Emu**
 
 <h4><b>Download Mirrors:</b></h4>                                                                            
 [Google Drive][gdrive]                                                                           
-[Mediafire][mediafire]                                                                               
-<!--[Onedrive][one]-->                                                                             
+[Mediafire][mediafire]                                                                                                                                                           
 [Mega.nz][mega]
 
 [CS.RIN.RU Thread][rin]

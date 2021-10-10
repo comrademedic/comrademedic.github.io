@@ -37,4 +37,4 @@ If any links are down Please write a comment about it so i can reupload it.
 [mediafire]: https://www.mediafire.com/file/kqb86lgsoeglpac/Dont.Starve.Together.Repack-Comrade.Medic.rar/file
 [one]: https://1drv.ms/u/s!AhO83nC1m4oDb_FT8vpIgMnx1RI?e=7LnP9C
 [gdrive]: https://drive.google.com/file/d/1MdLppe1UDGriIgsrs2Lu08pzHx37Baod/view?usp=sharing
-[mega]: https://mega.nz/file/5nZ1wKKZ#xZ1F1RYm10RMvpjDcfkjsIm4ZFm8K7W0cWU2Vz95IOE   
+[mega]: https://mega.nz/file/NyIAiDIB#QoT7yN9aayAgnxUpPXq0XStT4dNttSNLTCqYb-ANXWI
