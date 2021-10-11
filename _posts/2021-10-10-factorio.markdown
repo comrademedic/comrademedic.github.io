@@ -11,13 +11,13 @@ Developer: **Wube Software LTD**
 Publisher: **Wube Software LTD**                                                                             
 Languages: **English, French, Italian, German, Spanish - Spain, Hungarian, Dutch, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Finnish, Swedish, Czech, Russian, Ukrainian, Japanese, Simplified Chinese, Traditional Chinese, Korean**                                                                          
 Original Size: **1.72 GB**                                                                           
-Repack Size: **???**                                                                                          
+Repack Size: **1.35 GB**                                                                                          
 Based On: **GOG Release**                                                                
 
 <h4><b>Download Mirrors:</b></h4>
 Repack = Not Done                                                                                                                                       
 <!--[Google Drive][gdrive]-->                                                                    
-<!--[Mediafire][mediafire]-->                                                                                 
+[Mediafire][mediafire]                                                                                
 <!--[Onedrive][one]-->                                                                                
 <!--[Mega.nz][mega]--> 
 
@@ -34,7 +34,7 @@ If any links are down Please write a comment about it so i can reupload it.
 
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=70722
-[mediafire]: https://www.mediafire.com/file/kqb86lgsoeglpac/Dont.Starve.Together.Repack-Comrade.Medic.rar/file
+[mediafire]: https://www.mediafire.com/file/d2o9vqqlle4at4t/Factorio.Repack-Comrade.Medic.rar/file
 [one]: https://1drv.ms/u/s!AhO83nC1m4oDb_FT8vpIgMnx1RI?e=7LnP9C
 [gdrive]: https://drive.google.com/file/d/1MdLppe1UDGriIgsrs2Lu08pzHx37Baod/view?usp=sharing
 [mega]: https://mega.nz/file/NyIAiDIB#QoT7yN9aayAgnxUpPXq0XStT4dNttSNLTCqYb-ANXWI
