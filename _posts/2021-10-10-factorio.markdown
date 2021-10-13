@@ -22,9 +22,9 @@ Based On: **GOG Release**
 
 
 <h4><b>Multiplayer Instructions:</b></h4>
-1. Make sure you and your friends are on the same local network, so for online play use a program like RadminVPN, DynVPN, Hamachi, etc. to emulate that
-2. Start the game, start multiplayer game.
-3. Other player(s) should be able to find it, join and play together
+Make sure you and your friends are on the same local network, so for online play use a program like RadminVPN, DynVPN, Hamachi, etc. to emulate that
+Start the game, start multiplayer game.
+Other player(s) should be able to find it, join and play together
 
 
 [CS.RIN.RU Thread][rin]
