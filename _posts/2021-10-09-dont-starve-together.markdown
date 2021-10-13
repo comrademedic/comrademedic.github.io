@@ -19,12 +19,12 @@ Note: **Doesn't Include DLCs** (DLC files are there but are not working)
 [Google Drive][gdrive]                                                                    
 [Mediafire][mediafire]                                                                                
 [Onedrive][one]                                                                               
-<!--[Mega.nz][mega]-->
+[Mega.nz][mega]
 
 <h4><b>Multiplayer Instructions:</b></h4>
-1. Make sure you and your friends are on the same local network, so for online play use a program like RadminVPN, DynVPN, Hamachi, etc. to emulate that
-2. Start the game, press the PLAY-button. Before the "Create An Account"-window pops up, there should be "Logging in"-window, click "Play Offline"
-3. Host a game, the other player(s) should be able to find it, join and play together
+Make sure you and your friends are on the same local network, so for online play use a program like RadminVPN, DynVPN, Hamachi, etc. to emulate that
+Start the game, press the PLAY-button. Before the "Create An Account"-window pops up, there should be "Logging in"-window, click "Play Offline"
+Host a game, the other player(s) should be able to find it, join and play together
 
 
 [CS.RIN.RU Thread][rin]
