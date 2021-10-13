@@ -1,20 +1,22 @@
 ---
 layout: post
-title:  "Factorio"
-date:   2021-10-10 15:33:00 +0200
+title:  "RimWorld"
+date: 2021-10-13 15:08:00 +0200
 categories: repack october
-tag: post
+tag: 
 help tool:                                                                                               |
 ---
-Genres/Tags: **Casual, Indie, Simulation, Strategy**                                                                                      
-Developer: **Wube Software LTD**                                                                            
-Publisher: **Wube Software LTD**                                                                             
-Languages: **English, French, Italian, German, Spanish - Spain, Hungarian, Dutch, Norwegian, Polish, Portuguese, Portuguese - Brazil, Romanian, Finnish, Swedish, Czech, Russian, Ukrainian, Japanese, Simplified Chinese, Traditional Chinese, Korean**                                                                          
-Original Size: **1.72 GB**                                                                           
-Repack Size: **1.35 GB**                                                                                          
-Based On: **GOG Release**                                                         
+Genres/Tags: **Indie, Simulation, Strategy**                                                                                      
+Developer: **Ludeon Studios**                                                                            
+Publisher: **Ludeon Studios**                                                                             
+Languages: **English, French, German, Polish, Russian, Italian, Spanish - Spain, Czech, Danish, Dutch, Hungarian, Japanese, Norwegian, Portuguese, Portuguese - Brazil, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Ukrainian, Finnish, Korean, Romanian**                                                                          
+Original Size: **382 MB**                                                                           
+Repack Size: **???**                                                                                          
+Based On: **GOG Release**
+Version: **1.3.3117 rev660**                                                                
 
-<h4><b>Download Mirrors:</b><h4>                                                                                                     
+<h4><b>Download Mirrors:</b></h4>
+Repack = Not Done                                                                                                                                       
 [Google Drive][gdrive]                                                                    
 [Mediafire][mediafire]                                                                                
 <!--[Onedrive][one]-->                                                                                
