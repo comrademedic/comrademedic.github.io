@@ -17,8 +17,8 @@ Based On: **GOG Release**
 <h4><b>Download Mirrors:</b></h4>                                                                                       
 [Google Drive][gdrive]                                                                    
 [Mediafire][mediafire]                                                                                
-<!--[Onedrive][one]                                                                               
--->[Mega.nz][mega]
+[Onedrive][one]                                                                               
+[Mega.nz][mega]
 
 
 <h4><b>Multiplayer Instructions:</b></h4>
@@ -35,6 +35,6 @@ If any links are down Please write a comment about it so i can reupload it.
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=70722
 [mediafire]: https://www.mediafire.com/file/d2o9vqqlle4at4t/Factorio.Repack-Comrade.Medic.rar/file
-[one]: https://1drv.ms/u/s!AhO83nC1m4oDb_FT8vpIgMnx1RI?e=7LnP9C
+[one]: https://1drv.ms/u/s!AhO83nC1m4oDcL071l3v6nrkx50?e=ATkfDe
 [gdrive]: https://drive.google.com/file/d/1H9dn_nK0mdCXtIEYCwHBMeX4RQwhJKXr/view?usp=sharing
 [mega]: https://mega.nz/file/tnRxFSzR#CJRz1gDtdZtwKhrCULjyj82_Rm1bAN_nTGqdqUKzJac
