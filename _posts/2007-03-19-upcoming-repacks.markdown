@@ -7,11 +7,11 @@ tags: pinned
 help tool:                                                                                                   |
 ---                                                                                                          
 Super Monkey Ball Banana Mania                                                                                                                          
-Not For Broadcast                                                                                                 
-RimWorld ✏                                                                                                      
-30 Seconds To Jail                                                                                       
-Celeste                                                                                                        
+Not For Broadcast                                                                                                                                    
+30 Seconds To Jail                                                                                                                                 
 Not Tonight                                                                                               
+Celeste Farewell                                                                                             
+Not Tonight 2 (Beta)
 
 [Release Schedule][rs]
 
