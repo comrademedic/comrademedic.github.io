@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Not Tonight (+1 DLC, MULTi4)"
-date: 2021-10-20 20:26:00 +0200
+date: 2021-10-21 09:10:00 +0200
 categories: repack october
 tag: post
 help tool:                                                                                               |
@@ -11,7 +11,7 @@ Developer: **PanicBarn**
 Publisher: **No More Robots**                                                                             
 Languages: **English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese**                       
 Original Size: **3.88 GB**                                                                           
-Repack Size: **???**                                                                                          
+Repack Size: **812 MB**                                                                                          
 Based On: **GOG Release**                                                                                 
 Version: **1.35**                                                                
 
@@ -19,7 +19,7 @@ Version: **1.35**
 Base Game + 1 DLC
 
 <h4><b>Download Mirrors:</b></h4>                                                                              
-Repack Will come out: 24.10
+Repack Will come out: 21.10
 <!--[Google Drive][gdrive]                                                                                
 [Mediafire][mediafire]                                                                                   
 [Onedrive][one]                                                                               
