@@ -9,7 +9,7 @@ help tool:                                                                      
 Genres/Tags: **Simulation, Life Sim, RPG, Pixel Graphics, Indie**                                                                                     
 Developer: **PanicBarn**                                                                      
 Publisher: **No More Robots**                                                                             
-Languages: **English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese**                       
+Languages: **English, Simplified Chinese, Spanish - Spain, French, Japanese**                       
 Original Size: **3.88 GB**                                                                           
 Repack Size: **812 MB**                                                                                          
 Based On: **GOG Release**                                                                                 
