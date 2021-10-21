@@ -20,10 +20,10 @@ Base Game + 1 DLC
 
 <h4><b>Download Mirrors:</b></h4>                                                                              
 Repack Will come out: 21.10
-<!--[Google Drive][gdrive]-->                                                                                
+[Google Drive][gdrive]                                                                                       
 [Mediafire][mediafire]                                                                                   
-<!--[Onedrive][one]                                                                               
-[Mega.nz][mega]-->
+[Onedrive][one]                                                                               
+<!--[Mega.nz][mega]-->
 
 [CS.RIN.RU Thread][rin]
 
@@ -33,6 +33,6 @@ If any links are down Please write a comment about it so i can reupload it.
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=88142
 [mediafire]: https://www.mediafire.com/file/ur24z62njlipnh5/Not.Tonight.Repack-Comrade.Medic.rar/file
-[one]: https://1drv.ms/u/s!AtPzZBqFHwK1afWrdG_xir10lSc?e=aYpBvf
-[gdrive]: https://drive.google.com/file/d/1V_f0eXA8jm-ag45uoNSbgVd9ldg5bP_F/view?usp=sharing
+[one]: https://1drv.ms/u/s!AtPzZBqFHwK1aoUxWi66l7Hl1bI?e=4GFhcD
+[gdrive]: https://drive.google.com/file/d/1f4454-9Yg3EMzhxbXZdgrtD1xXODcaJC/view?usp=sharing
 [mega]: https://mega.nz/file/xnolgQRY#GT9WhUxR1eSHNn6RkT3NHhP4Mjv-2Vb6VlSSP1fGb-w
