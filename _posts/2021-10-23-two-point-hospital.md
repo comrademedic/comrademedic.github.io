@@ -19,7 +19,7 @@ Version: **1.26.70293**
 Base Game +12 DLC
 
 <h4><b>Download Mirrors:</b></h4>                                                                            
-<!--[Google Drive][gdrive]-->                                                                              
+[Google Drive][gdrive]                                                                              
 [Mediafire][mediafire]                                                                            
 <!--[Onedrive][one]-->                                                                                     
 <!--[Mega.nz][mega]-->
@@ -31,7 +31,7 @@ If any links are down Please write a comment about it so i can reupload it.
 
 [one]: https://pastebin.com/raw/cpiMcUTc
 [mediafire]: https://www.mediafire.com/file/0jeci5034g39uxk/Two.Point.Hospital.Repack-Comrade.Medic.rar/file
-[gdrive]: https://pastebin.com/raw/0AndzvAa
+[gdrive]: https://drive.google.com/file/d/1nLMXggn8Eaf5Uj8sUJEQJ7B7e6erjxZC/view?usp=sharing
 [mega]: https://pastebin.com/raw/J71pZ6c0 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=85436
 
