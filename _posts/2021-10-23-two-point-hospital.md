@@ -19,9 +19,8 @@ Version: **1.26.70293**
 Base Game +12 DLC
 
 <h4><b>Download Mirrors:</b></h4>                                                                            
-Repack will be released as soon as uploaded
 <!--[Google Drive][gdrive]-->                                                                              
-<!--[Mediafire][mediafire]-->                                                                               
+[Mediafire][mediafire]                                                                            
 <!--[Onedrive][one]-->                                                                                     
 <!--[Mega.nz][mega]-->
 
