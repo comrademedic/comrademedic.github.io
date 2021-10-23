@@ -2,14 +2,14 @@
 layout: post
 title:  "Not Tonight 2 (Beta.MULTI2)"
 date: 2021-10-23 10:38:00 +0200
-categories: 
+categories: repack october
 tag: post
 help tool:                                                                                               |
 ---
 Genres/Tags: **Adventure, RPG, Simulation**                                                                                      
 Developer: **PanicBarn**                                                                            
 Publisher: **No More Robots**                                                                             
-Languages: **English, German, Simplified Chinese**                                                                          
+Languages: **English, German, Simplified Chinese**                                                               
 Original Size: **2.64 GB**                                                                           
 Repack Size: **465 MB**                                                                                          
 Based On: **Steam RIP (No protection)**                                                                                 

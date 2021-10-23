@@ -4,8 +4,10 @@ title:  "Two Point Hospital (v1.25.6943.Mutli.10)"
 date:   2021-04-06 17:39:32 +0200
 categories: repack april 
 help tool:                                                                                               |
-tag: post
 ---
+<h3><span style="color:red"><b>NOTE: This repack is outdated.</b></span></h3>
+Newer Repack: [Here][here]
+
 Genres/Tags: **Survival, Simulation, Cradting, Singleplayer**                                                 
 Developer: **Two Point Studios**                                                                              
 Publisher: **SEGA**                                                                                   
@@ -29,3 +31,4 @@ If any links are down Please write a comment about it so i can reupload it.
 [gdrive]: https://pastebin.com/raw/0AndzvAa
 [mega]: https://pastebin.com/raw/J71pZ6c0 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=85436
+[here]: /repack/october/2021/10/23/two-point-hospital.html
