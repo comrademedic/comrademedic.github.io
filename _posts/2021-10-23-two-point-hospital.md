@@ -22,7 +22,7 @@ Base Game +12 DLC
 [Google Drive][gdrive]                                                                              
 [Mediafire][mediafire]                                                                            
 [Onedrive][one]                                                                                     
-<!--[Mega.nz][mega]-->
+[Mega.nz][mega]
 
 [CS.RIN.RU Thread][rin]
 
@@ -32,6 +32,6 @@ If any links are down Please write a comment about it so i can reupload it.
 [one]: https://1drv.ms/u/s!At0hqC-7hhCuamZurML0UdFghtA?e=KfzGjC
 [mediafire]: https://www.mediafire.com/file/0jeci5034g39uxk/Two.Point.Hospital.Repack-Comrade.Medic.rar/file
 [gdrive]: https://drive.google.com/file/d/1nLMXggn8Eaf5Uj8sUJEQJ7B7e6erjxZC/view?usp=sharing
-[mega]: https://pastebin.com/raw/J71pZ6c0 
+[mega]: https://mega.nz/file/Emg2lYgT#T794F37EtdmO86-K3ad0fqS234D4CmaCKgp5u4be4eA
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=85436
 
