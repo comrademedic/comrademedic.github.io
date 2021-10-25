@@ -17,6 +17,7 @@ Based On: **Hacker.Simulator-DARKSiDERS**
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [GoogleDrive][gdrive]
 [MediaFire][mediafire]
+[OneDrive][one]
 
 [CS.RIN.RU Thread][rin]
 
@@ -27,6 +28,6 @@ Note: Game looks nice will play from looks i recomand
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=116700
 [mediafire]: https://www.mediafire.com/file/3h6b04seqjsfie0/Hacker.Simulator.Repack-Comrade.Medic.rar/file
-[one]: .
+[one]: https://1drv.ms/u/s!At0hqC-7hhCuaweSQO_3wotNix0?e=MtRPyd
 [gdrive]: https://drive.google.com/file/d/15XEb2TuLpVic_38qS2jNtgLOjpZ5c_z8/view?usp=sharing
 [mega]: .
