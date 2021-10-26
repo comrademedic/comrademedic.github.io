@@ -6,6 +6,9 @@ categories: repack april
 help tool:                                                                                                   |
 tag: post
 ---
+<h3><span style="color:red"><b>NOTE: This repack is outdated.</b></span></h3>
+Newer Repack: [Here][here]
+
 Genres/Tags: **Survival, Simulation, Cradting, Singleplayer**                                                 
 Developer: **Rejected Games**                                                                                 
 Publisher: **PlayWay S.A.**                                                                                   
@@ -29,3 +32,4 @@ If any links are down Please write a comment about it so i can reupload it.
 [gdrive]: https://drive.google.com/file/d/1k0juiiGRAgFdXqYSHXkHmnWv9U86STYT/view?usp=sharing
 [mega]: https://mega.nz/file/U2hW0Zwa#4e9Etm_YhjZ78MHJzmp2OO1kU3eUKfb29C_HkoyaWmI 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=85436
+[here]: /repack/october/2021/10/26/mr-prepper.html
