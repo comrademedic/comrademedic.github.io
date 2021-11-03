@@ -4,7 +4,7 @@ title:  "Mr. Prepper (v12.Mutli.12)"
 date:   2021-04-03 11:16:32 +0200
 categories: repack april 
 help tool:                                                                                                   |
-tag: post
+tag: 
 ---
 <h3><span style="color:red"><b>NOTE: This repack is outdated.</b></span></h3>
 Newer Repack: [Here][here]
