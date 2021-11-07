@@ -5,6 +5,7 @@ date: 2021-10-26 09:19:00 +0200
 categories: repack october
 tag: post
 help tool:                                                                                               |
+permalink: mr-prepper
 ---
 Genres/Tags: **Survival, Simulation, Cradting, Singleplayer**                                                 
 Developer: **Rejected Games**                                                                                 

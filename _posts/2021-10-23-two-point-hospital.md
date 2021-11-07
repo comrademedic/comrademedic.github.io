@@ -5,6 +5,7 @@ date:   2021-10-23 18:48:00 +0200
 categories: repack october 
 help tool:                                                                                               |
 tag: post
+permalink: two-point-hospital
 ---
 Genres/Tags: **Survival, Simulation, Cradting, Singleplayer**                                                 
 Developer: **Two Point Studios**                                                                              

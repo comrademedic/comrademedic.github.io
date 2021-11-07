@@ -5,6 +5,7 @@ date: 2021-10-24 16:57:00 +0200
 categories: repack october
 tag: post
 help tool:                                                                                                  |
+permalink: hacker-simulation
 ---
 Genres/Tags: **Indie, Simulation**                                                                                      
 Developer: **Save All Studio**                                                                            

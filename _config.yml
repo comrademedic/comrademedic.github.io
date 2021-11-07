@@ -27,12 +27,14 @@ title: Comrade Medic Repacks
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "mrpekr.github,io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pekrking
-#github_username:  jekyll
+github_username:  mrpekr
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+paginate: 5
 
 # Exclude from processing.
 # The following items will not be processed, by default.
