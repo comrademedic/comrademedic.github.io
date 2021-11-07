@@ -19,6 +19,7 @@ Based On: **Hacker.Simulator-DARKSiDERS**
 [GoogleDrive][gdrive]
 [MediaFire][mediafire]
 [OneDrive][one]
+[Mega.nz][mega]
 
 [CS.RIN.RU Thread][rin]
 
@@ -31,4 +32,4 @@ Note: Game looks nice will play from looks i recomand
 [mediafire]: https://www.mediafire.com/file/3h6b04seqjsfie0/Hacker.Simulator.Repack-Comrade.Medic.rar/file
 [one]: https://1drv.ms/u/s!At0hqC-7hhCuaweSQO_3wotNix0?e=MtRPyd
 [gdrive]: https://drive.google.com/file/d/15XEb2TuLpVic_38qS2jNtgLOjpZ5c_z8/view?usp=sharing
-[mega]: .
+[mega]: https://mega.nz/file/EzJgGTwA#HKoQE36HtLF5197bKMEQxNCRg85tBk5mcLUj99nPoxTR
