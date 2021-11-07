@@ -7,7 +7,7 @@ tags: pinned
 help tool:                                                                                                   |
 ---                                                                                                          
 Super Monkey Ball Banana Mania                                                                                                                          
-Not For Broadcast                                                                                                                                    
+~~Not For Broadcast~~                                                                                                                                       
 ~~30 Seconds To Jail~~                                                                                                                                 
 Celeste Farewell                                                                                                                                                   
 
@@ -19,6 +19,7 @@ Q: What do emoticons and formated text mean?
 A: Look [here][here]
 
 Note: I might add post for game before i upload the repack.
+Another Note: I Don't write reasonrs of Canceling Repack here but Its on my Trello Board
 
 [here]: /uncategorized/1999/06/10/info.html
 [rs]: /update/info/october/2021/10/12/important-info.html
