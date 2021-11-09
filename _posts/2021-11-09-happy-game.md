@@ -22,6 +22,7 @@ Based On: **Happy.Game-TiNYiSO**
 [Mediafire][mediafire]                                                                                   
 <!--[Onedrive][one]                                                                                
 [Mega.nz][mega]--> 
+Note: 2 mirrors is missing and will be uploaded in near future (maximum few days)
 
 [CS.RIN.RU Thread][rin]
 
