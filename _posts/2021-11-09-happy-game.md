@@ -20,9 +20,9 @@ Based On: **Happy.Game-TiNYiSO**
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [Google Drive][gdrive]                                                                                 
 [Mediafire][mediafire]                                                                                   
-<!--[Onedrive][one]                                                                                
-[Mega.nz][mega]--> 
-Note: 2 mirrors is missing and will be uploaded in near future (maximum few days)
+[Onedrive][one]                                                                                
+<!--[Mega.nz][mega]--> 
+Note: 1 mirrors is missing and will be uploaded in near future (maximum few days)
 
 [CS.RIN.RU Thread][rin]
 
@@ -32,6 +32,6 @@ If any links are down Please write a comment about it so i can reupload it.
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=110763
 [mediafire]: https://www.mediafire.com/file/jni6btx4x5syoo7/Happy.Game.Repack-Comrade.Medic.rar/file
-[one]: .
+[one]: https://1drv.ms/u/s!AvGccoJTeuVFa3QtIZTVlFszDt4?e=qKe4co
 [gdrive]: https://drive.google.com/file/d/1So1XpkfdV1L59qw5Z-LW3EhdiisHqQJq/view?usp=sharing
 [mega]: .
