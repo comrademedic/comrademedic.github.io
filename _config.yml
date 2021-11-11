@@ -34,6 +34,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+url: "https:/comrademedic.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 paginate: 5
 
 # Exclude from processing.
