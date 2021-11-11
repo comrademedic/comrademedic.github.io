@@ -5,6 +5,7 @@ date: 2007-03-19 01:00:00 +0200
 categories: uncategorized
 tags: pinned
 help tool:                                                                                                   |
+permalink: upcoming-repacks
 ---                                                                                                          
 Super Monkey Ball Banana Mania                                                                                                                          
 ~~Not For Broadcast~~                                                                                                                                       
