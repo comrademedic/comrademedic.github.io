@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Happy Game (MULTI.18)"
-date: 2021:11:09 19:02:00 +0200
+date: 2021-11-09 19:02:00 +0200
 categories: repack november
 tag: post
 help tool:                                                                                               |
