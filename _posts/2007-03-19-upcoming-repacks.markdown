@@ -7,10 +7,11 @@ tags: pinned
 help tool:                                                                                                   |
 permalink: upcoming-repacks
 ---                                                                                                          
-Super Monkey Ball Banana Mania                                                                                                                          
-~~Not For Broadcast~~                                                                                                                                       
-~~30 Seconds To Jail~~                                                                                                                                 
-Celeste Farewell                                                                                                                                                   
+Super Monkey Ball Banana Mania                                                                                     Tinytopia                                                                                                       
+12 Minutes
+Untitled Goose Game
+My Friend Pedro
+The Binding of Isaac Rebirth Complete Edition
 
 This List is in no specific Order
 
