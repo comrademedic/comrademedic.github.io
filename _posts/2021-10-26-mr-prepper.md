@@ -30,7 +30,7 @@ Base Game
 If you have any problems with installation feel free to ask in comments.
 If any links are down Please write a comment about it so i can reupload it.
 
-[one]: https://1drv.ms/u/s!AvGccoJTeuVFaTOK3TMdMc_6ta4?e=qawj54
+[one]: https://1drv.ms/u/s!AvGccoJTeuVFaTOK3TMdMc_6ta4?e=2QCP1z
 [mediafire]: https://www.mediafire.com/file/ety9emarr67fufj/Mr.Prepper.Repack-Comrade.Medic.rar/file
 [gdrive]: https://drive.google.com/file/d/1k0juiiGRAgFdXqYSHXkHmnWv9U86STYT/view?usp=sharing
 [mega]: https://mega.nz/file/wzggSLIT#HKoQE36HtLF5197bKMEQxNCRg85tBk5mcLUj99nPoxTR 
