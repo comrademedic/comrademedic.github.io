@@ -20,8 +20,9 @@ Version: **1.1.3**
 
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [Google Drive][gdrive]                                                                                 
-<!--[Mediafire][mediafire]                                                                                   
-[Onedrive][one]-->                                                                                
+[Mediafire][mediafire]                                                                                   
+<!--[Onedrive][one]-->                                                                                               
+Note: 1 mirrors is missing and will be uploaded in near future (maximum few days)                              
 
 
 [CS.RIN.RU Thread][rin]
@@ -31,6 +32,6 @@ If any links are down Please write a comment about it so i can reupload it.
 
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=92016
-[mediafire]: .
+[mediafire]: https://www.mediafire.com/file/xjxf8uei2ifog40/Untitled.Goose.Game.Repack-Comrade.Medic.rar/file
 [one]: .
 [gdrive]: https://drive.google.com/file/d/1rIWk2RlJvwPDgwkJMNEQrGQ4CTHQopAU/view?usp=sharing

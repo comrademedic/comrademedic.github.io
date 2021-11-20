@@ -22,7 +22,8 @@ Base Game
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [Google Drive][gdrive]                                                                                 
 [Mediafire][mediafire]                                                                                   
-<!--[Onedrive][one]-->                                                                                
+<!--[Onedrive][one]-->                                                                                                
+Note: 1 mirrors is missing and will be uploaded in near future (maximum few days)                             
 
 [CS.RIN.RU Thread][rin]
 
