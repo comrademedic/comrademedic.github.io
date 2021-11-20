@@ -20,8 +20,8 @@ Version: **1.1.3**
 
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [Google Drive][gdrive]                                                                                 
-[Mediafire][mediafire]                                                                                   
-[Onedrive][one]                                                                                
+<!--[Mediafire][mediafire]                                                                                   
+[Onedrive][one]-->                                                                                
 
 
 [CS.RIN.RU Thread][rin]
