@@ -16,10 +16,10 @@ Repack Size: **1.22 GB**
 Based On: **Hacker.Simulator-DARKSiDERS**                                                                  
 
 <h4><b>Download Mirrors:</b></h4>                                                                              
-[GoogleDrive][gdrive]
-[MediaFire][mediafire]
-[OneDrive][one]
-[Mega.nz][mega]
+[GoogleDrive][gdrive]                                                                                                
+[MediaFire][mediafire]                                                                                             
+[OneDrive][one]                                                                                                   
+[Mega.nz][mega]                                                                                                         
 
 [CS.RIN.RU Thread][rin]
 
