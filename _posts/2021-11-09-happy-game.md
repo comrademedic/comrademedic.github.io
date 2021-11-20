@@ -21,8 +21,7 @@ Based On: **Happy.Game-TiNYiSO**
 [Google Drive][gdrive]                                                                                 
 [Mediafire][mediafire]                                                                                   
 [Onedrive][one]                                                                                
-<!--[Mega.nz][mega]--> 
-Note: 1 mirrors is missing and will be uploaded in near future (maximum few days)
+[Mega.nz][mega]
 
 [CS.RIN.RU Thread][rin]
 
@@ -34,4 +33,4 @@ If any links are down Please write a comment about it so i can reupload it.
 [mediafire]: https://www.mediafire.com/file/jni6btx4x5syoo7/Happy.Game.Repack-Comrade.Medic.rar/file
 [one]: https://1drv.ms/u/s!AvGccoJTeuVFa3QtIZTVlFszDt4?e=qKe4co
 [gdrive]: https://drive.google.com/file/d/1So1XpkfdV1L59qw5Z-LW3EhdiisHqQJq/view?usp=sharing
-[mega]: .
+[mega]: https://mega.nz/file/1nQTkQDY#HKoQE36HtLF5197bKMEQxNCRg85tBk5mcLUj99nPoxTR
