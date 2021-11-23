@@ -2,7 +2,7 @@
 layout: post
 title:  "Untitled Goose Game (v1.1.3.MULTI.7)"
 date: 2021-11-20 19:07:00 +0200
-categories: 
+categories: repack november
 tag: post
 help tool:                                                                                               |
 permalink: untitled-goose-game
@@ -17,6 +17,7 @@ Based On: **Untitled.Goose.Game.v1.1.3-SiMPLEX**
 Version: **1.1.3**                                                                                       
 
 <h4><b>Includes:</b></h4> 
+Base Game
 
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [Google Drive][gdrive]                                                                                 
