@@ -7,7 +7,7 @@ tag: post
 help tool:                                                                                               |
 permalink: my-friend-pedro
 ---
-Genres/Tags: ****                                                                                      
+Genres/Tags: **Action, Indie**                                                                                      
 Developer: **DeadToast Entertainment**                                                                            
 Publisher: **Devolver Digital**                                                                             
 Original Size: **3.56 GB**                                                                           
