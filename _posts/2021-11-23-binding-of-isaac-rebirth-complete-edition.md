@@ -21,7 +21,7 @@ Base Game + 3DLCs, Soundtrack
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [Google Drive][gdrive]                                                                                 
 [Mediafire][mediafire]                                                                                   
-<!--[Onedrive][one]-->                                                                                
+[Onedrive][one]                                                                                
 Note: There is 1 mirror missing and will be uploaded in next hours-days
 
 [CS.RIN.RU Thread][rin]
@@ -32,5 +32,5 @@ If any links are down Please write a comment about it so i can reupload it.
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=65646
 [mediafire]: https://www.mediafire.com/file/d6cq9775xbrmbqm/The.Binding.of.Isaac.Rebirth.Complete.Edition.Repack-Comrade.Medic.rar/file
-[one]: .
+[one]: https://1drv.ms/u/s!AiMQVfgSEHuFcB8gpwnqySb9p3Q?e=C440TU
 [gdrive]: https://drive.google.com/file/d/1xp_uC9aGEKwHyYHqfiniXIm-78wFg9Bu/view?usp=sharing
