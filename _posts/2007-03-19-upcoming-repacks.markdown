@@ -8,8 +8,6 @@ help tool:                                                                      
 permalink: upcoming-repacks
 ---                                                                                                          
 Super Monkey Ball Banana Mania                                                                                     
-Neigbors Back From Hello                                                                                         
-The Stanley Parable
 
 This List is in no specific Order
 
