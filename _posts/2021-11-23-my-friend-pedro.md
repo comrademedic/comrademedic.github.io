@@ -20,7 +20,7 @@ Base Game
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [Google Drive][gdrive]                                                                                 
 [Mediafire][mediafire]                                                                                   
-<!--[Onedrive][one]-->                                                                                
+[Onedrive][one]                                                                                
 Note: There is 1 mirror missing and will be uploaded in next hours-days
 
 [CS.RIN.RU Thread][rin]
@@ -31,5 +31,5 @@ If any links are down Please write a comment about it so i can reupload it.
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=75208
 [mediafire]: https://www.mediafire.com/file/zjoj5ltrelr9tho/My.Friend.Pedro.Repack-Comrade.Medic.rar/file
-[one]: .
+[one]: https://1drv.ms/u/s!ApUJtNNE5hkraczCWrv0QsLrtHk?e=lmZDBV
 [gdrive]: https://drive.google.com/file/d/1CiZ5EuEOgLaW3BZTbLo0ReVAe9D4YcsY/view?usp=sharing
