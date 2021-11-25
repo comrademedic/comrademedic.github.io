@@ -7,14 +7,14 @@ tag: post
 help tool:                                                                                               |
 permalink: neighbours-back-from-hell
 ---
-Genres/Tags: ****                                                                                      
-Developer: ****                                                                            
-Publisher: ****                                                                             
-Languages: ****                                                                          
-Original Size: ****                                                                           
-Repack Size: ****                                                                                          
-Based On: ****                                                                                 
-Version: ****                                                                
+Genres/Tags: **Adventure, Casual, Strategy**                                                                                      
+Developer: **Farbworks,THQ Nordic**                                                                            
+Publisher: **HandyGames**                                                                             
+Languages: **English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Polish, Russian, Hungarian, Simplified Chinese**
+Original Size: **4.00 GB**                                                                           
+Repack Size: **897 MB**                                                                                          
+Based On: **Neighbours_Back_From_Hell_v1.0.5-Razor1911**                                                                                 
+Version: **v1.0.5**                                                                
 
 <h4><b>Includes:</b></h4> 
 Base Game
@@ -23,7 +23,6 @@ Base Game
 [Google Drive][gdrive]                                                                                 
 [Mediafire][mediafire]                                                                                   
 [Onedrive][one]                                                                                
-Note: There is 1 mirror missing and will be uploaded in next hours-days
 
 [CS.RIN.RU Thread][rin]
 
