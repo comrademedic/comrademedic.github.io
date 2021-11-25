@@ -21,7 +21,6 @@ Base Game
 [Google Drive][gdrive]                                                                                 
 [Mediafire][mediafire]                                                                                   
 [Onedrive][one]                                                                                
-Note: There is 1 mirror missing and will be uploaded in next hours-days
 
 [CS.RIN.RU Thread][rin]
 
