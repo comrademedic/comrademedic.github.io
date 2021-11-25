@@ -10,7 +10,7 @@ permalink: neighbours-back-from-hell
 Genres/Tags: **Adventure, Casual, Strategy**                                                                                      
 Developer: **Farbworks,THQ Nordic**                                                                            
 Publisher: **HandyGames**                                                                             
-Languages: **English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Polish, Russian, Hungarian, Simplified Chinese**                                                                                                        
+Languages: **English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Polish, Russian, Hungarian, Simplified Chinese**                                                                                                                                                                                                                                                          
 Original Size: **4.00 GB**                                                                                   
 Repack Size: **897 MB**                                                                                          
 Based On: **Neighbours_Back_From_Hell_v1.0.5-Razor1911**                                                                                 
