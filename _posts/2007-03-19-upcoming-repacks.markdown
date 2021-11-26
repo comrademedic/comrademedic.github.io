@@ -8,8 +8,10 @@ help tool:                                                                      
 permalink: upcoming-repacks
 ---                                                                                                          
 Super Monkey Ball Banana Mania                                                                                     
-Youtubers Life 2                                                                                                     
-The Smurfs - Mission Vileaf
+Staxel                                                                                                         
+Tavern Master                                                                                                   
+
+Sorry for not releasing all 3 repacks as i planned i had some issues i will release them on Saturday
 
 This List is in no specific Order
 
