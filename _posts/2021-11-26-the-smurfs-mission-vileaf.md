@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "The Smurfs - Misson Vileaf"
-date: YYYY-MM-DD HH:MM:SS +0200
-categories: 
+date: 2021-11-26 14:21 +0200
+categories: repack november
 tag: post
 help tool:                                                                                               |
 permalink: the-smurfs-mission-vileaf
 ---
+<h3><span style="color:red"><b>NOTE: This repack was released on 26.11 but im stupid so it wasn't possible to download. Sorry</b></span></h3>
+
 Genres/Tags: **Action, Adventure**                                                                                      
 Developer: **Osome Studio**                                                                            
 Publisher: **Microids**                                                                             
@@ -21,7 +23,7 @@ Base Game + 1DLC
 
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [Google Drive][gdrive]                                                                                 
-<!-- Google Drive[Mediafire][mediafire]                                                                                   
+<!--[Mediafire][mediafire]                                                                                   
 [Onedrive][one]-->                                                                                
 Note: There are 2 mirrors missing and will be uploaded in the next hours-days.
 

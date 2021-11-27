@@ -7,11 +7,11 @@ tags: pinned
 help tool:                                                                                                   |
 permalink: upcoming-repacks
 ---                                                                                                          
-Super Monkey Ball Banana Mania                                                                                     
-Staxel                                                                                                         
+Super Monkey Ball Banana Mania                                                                                  
 Tavern Master                                                                                                   
-
-Sorry for not releasing all 3 repacks as i planned i had some issues i will release them on Saturday
+Star Of The Show                                                                                                 
+The Stanley Parable                                                                                             
+Youtubers Life 2                                                                                                
 
 This List is in no specific Order
 
