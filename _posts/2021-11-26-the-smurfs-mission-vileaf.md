@@ -25,7 +25,7 @@ Base Game + 1DLC
 [Google Drive][gdrive]                                                                                 
 [Mediafire][mediafire]                                                                                   
 <!--[Onedrive][one]-->                                                                                
-Note: There are 2 mirrors missing and will be uploaded in the next hours-days.
+Note: There is 1 mirror missing and will be uploaded in the next hours-days.
 
 [CS.RIN.RU Thread][rin]
 
