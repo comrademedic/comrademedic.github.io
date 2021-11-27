@@ -23,8 +23,8 @@ Base Game + 1DLC
 
 <h4><b>Download Mirrors:</b></h4>                                                                              
 [Google Drive][gdrive]                                                                                 
-<!--[Mediafire][mediafire]                                                                                   
-[Onedrive][one]-->                                                                                
+[Mediafire][mediafire]                                                                                   
+<!--[Onedrive][one]-->                                                                                
 Note: There are 2 mirrors missing and will be uploaded in the next hours-days.
 
 [CS.RIN.RU Thread][rin]
@@ -34,6 +34,6 @@ If any links are down Please write a comment about it so i can reupload it.
 
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=113508
-[mediafire]: .
+[mediafire]: https://www.mediafire.com/file/o5sax2lhrgp4ieo/The.Smurfs.Mission.Vileaf.Repack-Comrade.Medic.rar/file
 [one]: .
 [gdrive]: https://drive.google.com/file/d/1FtMnIRacBLPek2SRB6B2i6EzuTh6ZWaQ/view?usp=sharing
