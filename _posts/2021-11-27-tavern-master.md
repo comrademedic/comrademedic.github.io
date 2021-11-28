@@ -10,7 +10,7 @@ permalink:
 Genres/Tags: **Strategy, Medieval, Simulation, Building, Indie**                                             
 Developer: **Untitled Studio**                                                                            
 Publisher: **Untitled Studio, WhisperGames**                                                                             
-Languages: **English, Russian, French, Italian, German, Portuguese - Brazil, Turkish, Spanish - Latin America, Japanese, Korean, Simplified Chinese, Traditional Chinese**
+Languages: **English, Russian, French, Italian, German, Portuguese - Brazil, Turkish, Spanish - Latin America, Japanese, Korean, Simplified Chinese, Traditional Chinese**                                                                                        
 Original Size: **1.25 GB**                                                                           
 Repack Size: **446 MB**                                                                                          
 Based On: **Tavern.Master-PLAZA**                                                                                 
