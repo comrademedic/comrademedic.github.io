@@ -8,10 +8,7 @@ help tool:                                                                      
 permalink: upcoming-repacks
 ---                                                                                                          
 Super Monkey Ball Banana Mania                                                                                  
-Tavern Master                                                                                                   
-Star Of The Show                                                                                                 
-The Stanley Parable                                                                                             
-Youtubers Life 2                                                                                                
+More Games Will Be added ...
 
 This List is in no specific Order
 
