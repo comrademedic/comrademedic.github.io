@@ -32,5 +32,5 @@ If any links are down Please write a comment about it so i can reupload it.
 
 [rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=117490
 [mediafire]: .
-[one]: https://drive.google.com/file/d/10H-oQ4UFIqvOa3a1HaB9oxaDX-7gLQJk/view?usp=sharing
-[gdrive]: .
+[one]: .
+[gdrive]: https://drive.google.com/file/d/10H-oQ4UFIqvOa3a1HaB9oxaDX-7gLQJk/view?usp=sharing
