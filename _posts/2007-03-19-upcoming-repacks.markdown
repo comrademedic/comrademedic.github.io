@@ -1,12 +1,13 @@
 ---
 layout: pinned
-title:  "Upcoming repacks"
+title: "Upcoming repacks"
 date: 2007-03-19 01:00:00 +0200
 categories: uncategorized
 tags: pinned
 help tool:                                                                                                   |
 permalink: upcoming-repacks
----                                                                                                                                               More Games Will Be added ...
+---
+More Games Will Be added ...
 
 This List is in no specific Order
 
