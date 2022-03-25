@@ -7,7 +7,9 @@ tags: pinned
 help tool:                                                                                                   |
 permalink: upcoming-repacks
 ---
-Kings Of The Chalice 2
+Kings Of The Chalice 2                                                                                            
+a Memoir Blue                                                                                                   
+World of Contraptions
 More Games Will Be added ...
 
 This List is in no specific Order
