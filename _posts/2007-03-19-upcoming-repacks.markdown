@@ -6,9 +6,7 @@ categories: uncategorized
 tags: pinned
 help tool:                                                                                                   |
 permalink: upcoming-repacks
----                                                                                                          
-Nova Slash: Unparalleled Power                                                                                  
-More Games Will Be added ...
+---                                                                                                                                               More Games Will Be added ...
 
 This List is in no specific Order
 
