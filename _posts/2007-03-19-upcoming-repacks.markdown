@@ -7,6 +7,7 @@ tags: pinned
 help tool:                                                                                                   |
 permalink: upcoming-repacks
 ---
+Kings Of The Chalice 2
 More Games Will Be added ...
 
 This List is in no specific Order
