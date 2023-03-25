@@ -26,7 +26,6 @@ layout: default
               <div class="entry">
                   <p>
                     {{ post.content | truncatewords:120}}<br>
-                    <a href="{{ post.url }}">Read more...</a><br><br>
                     {%- if site.show_excerpts -%}
                   {{ post.excerpt }}
                 {%- endif -%}

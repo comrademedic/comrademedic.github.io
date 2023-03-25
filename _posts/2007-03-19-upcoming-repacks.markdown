@@ -7,16 +7,8 @@ tags: pinned
 help tool:                                                                                                   |
 permalink: upcoming-repacks
 ---
-Kings Of The Chalice 2                                                                                            
-a Memoir Blue                                                                                                   
-World of Contraptions
-More Games Will Be added ...
+Graveyard Keeper
 
-This List is in no specific Order
+<span style="color:#f20505">**This List is in no specific Order!**</span>
 
-[Release Schedule][rs]
-
-Note: I might add post for game before i upload the repack.
-Another Note: I Don't write reasons of Canceling Repack here but Its on my Trello Board
-
-[rs]: /update/info/october/2021/10/12/important-info.html
+Note: I might add post for game before i upload the repack and I don't write reasons of Canceling Repack.
