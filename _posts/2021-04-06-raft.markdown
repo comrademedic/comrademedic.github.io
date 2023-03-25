@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Raft (v12.Mutli.12)"
+date:   2021-04-07 12:29:32 +0200
+categories: repack april 
+help tool:                                                                                               |
+tag: post
+---
+Genres/Tags: **Adventure, Indie, Simulation, Early Access**                                                 
+Developer: **Redbeet Interactive**                                                                            
+Publisher: **Axolot Games**                                                                                   
+Languages: **ENG/MULTI.12**                                                                          
+Original Size: **4,86 GB**                                                                           
+Repack Size: **1,35 GB**                                                                             
+
+<h4><b>Download Mirrors:</b></h4>                                                                            
+[Google Drive][gdrive]                                                                              
+[Mediafire][mediafire]                                                                               
+[Onedrive][one]                                                                                     
+[Mega.nz][mega]
+
+[CS.RIN.RU Thread][rin]
+
+If you have any problems with installation feel free to ask in comments.
+If any links are down Please write a comment about it so i can reupload it.
+
+[one]: https://livestudentccc-my.sharepoint.com/:u:/g/personal/mdonald12_student_ccc_edu/EfNCtoBo8EhHiEpMk15Y92MBZUcchvM7kQZwOGSGe7s6Bg?e=feEn6BEfNCtoBo8EhHiEpMk15Y92MBm55sk3krTpyg0sFBYXrVwg?e=8HW26m
+[mediafire]: https://www.mediafire.com/file/mt92najy5u3o46d/Raft.Repack-Comrade.Medic%25282%2529.rar/file
+[gdrive]: https://drive.google.com/file/d/1wTJkf_dC22EkP22nIHpNCe4EiI8E376F/view?usp=sharing
+[mega]: https://mega.nz/file/BvZRnIIC#lfAz4gNDL9-P_-OytE-Zs66yJfwfiCc18J81A0skULw
+[rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=75926

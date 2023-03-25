@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "RimWorld"
+date: 2021-10-14 18:53:00 +0200
+categories: repack october
+tag: post
+help tool:                                                                                               |
+---
+Genres/Tags: **Indie, Simulation, Strategy**                                                                                      
+Developer: **Ludeon Studios**                                                                            
+Publisher: **Ludeon Studios**                                                                             
+Languages: **English, French, German, Polish, Russian, Italian, Spanish - Spain, Czech, Danish, Dutch, Hungarian, Japanese, Norwegian, Portuguese, Portuguese - Brazil, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Ukrainian, Finnish, Korean, Romanian**                                                                          
+Original Size: **382 MB**                                                                           
+Repack Size: **148 MB**                                                                                          
+Based On: **GOG Release**                                                                                 
+Version: **1.3.3117 rev660**                                                                
+
+<h4><b>Download Mirrors:</b></h4>                                                                              
+[Google Drive][gdrive]                                                                                 
+[Mediafire][mediafire]                                                                                   
+[Onedrive][one]                                                                                
+[Mega.nz][mega] 
+
+[CS.RIN.RU Thread][rin]
+
+If you have any problems with installation feel free to ask in comments.
+If any links are down Please write a comment about it so i can reupload it.
+
+
+[rin]: https://cs.rin.ru/forum/viewtopic.php?f=10&t=63720
+[mediafire]: https://www.mediafire.com/file/zeogmmlwy9prjxi/RimWorld.Repack-Comrade.Medic.rar/file
+[one]: https://1drv.ms/u/s!AhO83nC1m4oDcUspFj-fJpPZWys?e=nhJ8Op
+[gdrive]: https://drive.google.com/file/d/1-YDgmHCzmly-OHDRLAWVrawDf1L9euhv/view?usp=sharing
+[mega]: https://mega.nz/file/4mhnDQgR#YusYWYhhQjBJyWNvwsjG5ZjhKhWUmRcDwMvhrMC7QN8

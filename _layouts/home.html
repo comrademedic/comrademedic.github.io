@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {% if page.url == "/" %}
+      {% for post in site.tags.pinned %}
+            <article class="post">
+              <p class="pinned-article"><b>📌 Pinned Article</b></p>
+  
+              <h1>
+                  <a href="{{ site.baseurl }}{{ post.url }}">
+                      {{ post.title }}
+                  </a>
+              </h1>
+  
+              <div class="entry">
+                  <p>
+                    {{ post.content | truncatewords:120}}<br>
+                    <a href="{{ post.url }}">Read more...</a><br><br>
+                    {%- if site.show_excerpts -%}
+                  {{ post.excerpt }}
+                {%- endif -%}
+                  </p>
+              </div>
+            </article>
+      {% endfor %}
+  {% endif %}
+  
+      <!-- This loops through the paginated posts -->
+      {% for post in paginator.posts %}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="author">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+      </p>
+      <div class="entry">
+        <p>
+          {{ post.content | truncatewords:120}}<br>
+          <a href="{{ post.url }}">Read more...</a><br><br>
+          {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+        </p>
+    </div>
+      {% endfor %}
+
+      <!-- Pagination links -->
+      <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">
+          Previous
+        </a>
+      {% else %}
+        <span class="previous">Previous</span>
+      {% endif %}
+      <span class="page_number ">
+        Page: {{ paginator.page }} of {{ paginator.total_pages }}
+      </span>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      {% else %}
+        <span class="next ">Next</span>
+      {% endif %}
+      </div>
+        {{ post.content | truncatewords:120}}<br>
+            <a href="{{ post.url }}">Read more...</a><br><br>
+            {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+    </ul>
+  {%- endif -%}
+</div>

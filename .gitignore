@@ -1,0 +1,15 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+Gemfile
+assets/minima-social-icons.svg
+assets/main.scss
+_sass/minima.scss
+_sass/minima/_syntax-highlighting.scss
+_sass/minima/_layout.scss
+_sass/minima/_base.scss
+_sass/minima/skins/classic.scss
+.post-template
