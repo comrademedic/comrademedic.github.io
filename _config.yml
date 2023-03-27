@@ -27,7 +27,6 @@ title: Comrade Medic Repacks
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://comrademedic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pekrking
-#github_username:  mrpekr
 
 # Build settings
 theme: minima
@@ -39,6 +38,12 @@ plugins:
 
 #plugins:
 #  - jekyll-sitemap
+
+jekyll_admin:
+  hidden_links:
+    - staticfiles
+    - datafiles
+  homepage: "posts"
 
 paginate: 5
 
