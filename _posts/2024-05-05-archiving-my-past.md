@@ -19,7 +19,7 @@ As such ive decided with the help of [Buzzheavier][buzz] i will be doing my best
 
 I no longer have the original repacks so i will have to download them from what i can. Im not promising to archive all.
 I can garantee i will not archive my larger repacks above 5gb. Why? because it would simply take too long. A side note i have disabled comments on this site.
-Simpley no longer see a point in them. With this update im removing the broken comments embed as well.
+Simpley no longer see a point in them. With this update im removing the broken comments embed as well. Also im unable to archive all the only google drive ones aka. the most recent ones. Simply do to the shared drive being a gonner
 
 Once my archiving is done i will make a new post that will replace upcoming games one.
 
